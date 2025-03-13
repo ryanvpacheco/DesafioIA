@@ -1,7 +1,7 @@
 ### :trophy: Desafio de Criação de Agente de IA Inteligente e Integrado :trophy:
 
 #### :pushpin: **Objetivo**  
-Criar um **agente de IA inteligente** que consulta informações em um **RAG (Retrieval-Augmented Generation)**, utilizando **banco vetorial ou planilhas**. O agente precisa ser **integrado ao WhatsApp** para interagir com usuários e, além disso, ser capaz de **realizar agendamentos no Google Agenda**.
+Criar um **agente de IA ** que consulta informações em um **RAG (Retrieval-Augmented Generation)**, utilizando **banco vetorial ou planilhas**. O agente precisa ser **integrado ao WhatsApp** para interagir com usuários e, além disso, ser capaz de **realizar agendamentos no Google Agenda**.
 
 #### :construction_site: **Requisitos do Desafio**  
 
