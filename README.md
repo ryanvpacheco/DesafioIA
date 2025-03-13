@@ -1,9 +1,9 @@
 ### :trophy: Desafio de Criação de Agente de IA Inteligente e Integrado :trophy:
 
 #### :pushpin: **Objetivo**  
-Criar um **agente de IA ** que consulta informações em um **RAG (Retrieval-Augmented Generation)**, utilizando **banco vetorial ou planilhas**. O agente precisa ser **integrado ao WhatsApp** para interagir com usuários e, além disso, ser capaz de **realizar agendamentos no Google Agenda**.
+Criar um **agente de IA** que consulta informações em um **RAG (Retrieval-Augmented Generation)**, utilizando **banco vetorial ou planilhas**. O agente precisa ser **integrado ao WhatsApp** para interagir com usuários e, além disso, ser capaz de **realizar agendamentos no Google Agenda**.
 
-#### :construction_site: **Requisitos do Desafio**  
+#### **Requisitos do Desafio**  
 
 :one: **Criação do Home Lab**:  
    - Estruturar um ambiente para rodar as aplicações (Docker, VPS, Local, etc.).  
@@ -28,10 +28,13 @@ Criar um **agente de IA ** que consulta informações em um **RAG (Retrieval-Aug
    - **:shopping_cart: Mercado Inteligente**: O bot consulta preços e disponibilidade de produtos.  
    - **:hamburger: Delivery Inteligente**: Usuário escolhe o pedido e o bot agenda no sistema de entregas.  
 
-#### :dart: **Entrega Esperada**  
+#### **Entrega Esperada**  
 :heavy_check_mark: Arquitetura do sistema detalhada.  
 :heavy_check_mark: Agente funcional rodando no Home Lab.  
 :heavy_check_mark: Integração com WhatsApp e Google Agenda.  
 :heavy_check_mark: Demonstração e teste da IA.  
 
-Me envie o número do WhatsApp para que possamos testar a implementação assim que estiver funcional! :fire::rocket:
+### 📌 **6. Testes e Demonstração**  
+💬 Assim que a estrutura estiver pronta, **me passe o número do WhatsApp** para realizarmos os testes e verificarmos tudo funcionando na prática!  
+🔥 **Vamos inovar e criar um agente poderoso!** 🚀
+
